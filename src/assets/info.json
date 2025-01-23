@@ -1,0 +1,28 @@
+{
+  "info": [
+    {
+      "title": "About Us",
+      "description": "We are a research laboratory at the School of Mechanical Engineering of Purdue University, founded in 2014 by Dr. Ilias Bilionis."
+    },
+    {
+      "title": "Mission",
+      "description": "Our mission is to develop scientific machine learning technologies to accelerate engineering innovation."
+    },
+    {
+      "title": "Philosophy",
+      "description": "We operate at the intersection of mathematics, statistics, and engineering, facilitating communication between these disciplines by employing Bayesian probability and an additional layer of causality expressed through differential equations."
+    },
+    {
+      "title": "Funding",
+      "description": "Our funding comes from NSF, NASA, DARPA, AFRL, Eli Lilly, Cummins, and Ford."
+    },
+    {
+      "title": "Former Members",
+      "description": "For a list of former members, please visit the PSL website."
+    },
+    {
+      "title": "How to join the group?",
+      "description": "We are continuously looking for qualified people to join the group. If you are interested in working with us, please send me an email with your CV and a brief description of your research interests. I will get back to you as soon as possible."
+    }
+  ]
+}

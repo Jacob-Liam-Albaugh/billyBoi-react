@@ -1,0 +1,123 @@
+{
+  "people": [
+    {
+      "photoName": "bilionis.jpeg",
+      "name": "Ilias Bilionis",
+      "position": "Professor of Mechanical Engineering",
+      "email": "ibilion@purdue.edu",
+      "university": "Purdue University",
+      "googleScholar": "https://scholar.google.com/citations?user=rjXLtJMAAAAJ&hl=en",
+      "cv": "bilionis_cv.pdf",
+      "shortBio": "bilionis_bio.pdf",
+      "personalGithub": "https://github.com/ebilionis",
+      "labGithub": "https://github.com/PredictiveScienceLab"
+    },
+    {
+      "photoName": "akshay.jpg",
+      "name": "Akshay Jacob Thomas",
+      "position": "Postdoctoral Researcher",
+      "university": "Purdue University",
+      "email": "akshayjacobthomas@gmail.com",
+      "researchAreas": [
+        "Bayesian inverse problems",
+        "Physics informed neural networks",
+        "Digital twins for advanced manufacturing"
+      ],
+      "googleScholar": "https://scholar.google.com/citations?user=lWoiOrEAAAAJ&hl=en",
+      "linkedin": "https://www.linkedin.com/in/akshayjacobthomas/"
+    },
+    {
+      "photoName": "alex.jpg",
+      "name": "Alexander Alberts",
+      "position": "Postdoctoral Researcher",
+      "university": "Purdue University",
+      "email": "aalberts@purdue.edu",
+      "researchAreas": ["Physics-informed, information field theory"]
+    },
+    {
+      "photoName": "kairui.jpg",
+      "name": "Kairui Hao",
+      "position": "Postdoctoral Researcher",
+      "university": "Purdue University",
+      "email": "kairuihao@purdue.edu",
+      "researchAreas": [
+        "Physics-informed, information field theory for dynamical systems"
+      ]
+    },
+    {
+      "photoName": "atharva.jpg",
+      "name": "Atharva Hans",
+      "position": "Postdoctoral Researcher",
+      "university": "Purdue University",
+      "email": "hans1@purdue.edu",
+      "researchAreas": [
+        "Superresolution of 4D flow MRI using information field theory"
+      ],
+      "googleScholar": "https://scholar.google.com/citations?user=ZgRThEcAAAAJ&hl=en&oi=ao",
+      "personalGithub": "https://github.com/gg2uah"
+    },
+    {
+      "photoName": "andres.jpg",
+      "name": "Andrés Felipe Beltrán-Pulido",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "email": "beltranp@purdue.edu",
+      "researchAreas": [
+        "Electric machine design optimization using physics informed neural networks"
+      ],
+      "googleScholar": "https://scholar.google.com/citations?user=GlDZbukAAAAJ&hl=en",
+      "personalGithub": "https://github.com/afbeltranp"
+    },
+    {
+      "photoName": "rudra.jpg",
+      "name": "Rudra Sethu Viji",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": [
+        "Information field theory for fluid flow reconstruction from non-intrusive flow measurements"
+      ]
+    },
+    {
+      "photoName": "sreehari.jpg",
+      "name": "Sreehari Manikkan",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": ["Digital twins for smart buildings"]
+    },
+    {
+      "photoName": "wesley.jpg",
+      "name": "Wesley Holt",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": ["Information field theory"]
+    },
+    {
+      "photoName": "shrenik.jpg",
+      "name": "Shrenik Vijaykumar Zinage",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": ["Emissions modeling"],
+      "email": "shrenik@purdue.edu",
+      "googleScholar": "https://scholar.google.com/citations?user=CuaVvXsAAAAJ&hl=en",
+      "linkedin": "https://www.linkedin.com/in/shrenik-zinage-1a727a157/",
+      "personalGithub": "https://github.com/shrenik",
+      "researchGate": "https://www.researchgate.net/profile/Shrenik-Zinage"
+    },
+    {
+      "photoName": "max.jpeg",
+      "name": "Maxwell Bolt",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": ["Emissions modeling"],
+      "linkedin": "https://www.linkedin.com/in/maxwell-bolt"
+    },
+    {
+      "photoName": "rohan.jpeg",
+      "name": "Rohan Dekate",
+      "position": "Ph.D. Student",
+      "university": "Purdue University",
+      "researchAreas": ["Operator learning"],
+      "linkedin": "https://www.linkedin.com/in/rohanmdekate/"
+    }
+  ]
+}

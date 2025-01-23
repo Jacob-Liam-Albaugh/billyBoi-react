@@ -1,0 +1,175 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "description": "Extra-terrestrial habitats (NASA)",
+      "papers": [
+        {
+          "name": "Dyke et al., 202",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:oTdOBqtIf_kC"
+        },
+        {
+          "name": "Maghareh et al., 2021",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:KS-xo-ZNxMsC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "2",
+      "description": "Smart buildings (NSF)",
+      "papers": [
+        {
+          "name": "Kim et al., 2022",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:TesyEGJKHF4C"
+        },
+        {
+          "name": "Kim et al., 2023",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:YPNY0knpFBYC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "3",
+      "description": "Uncertainty quantification in combustions modeling (Cummins)",
+      "papers": [
+        {
+          "name": "Zinage et al., 2022",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2405896322028233"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "4",
+      "description": "Thermal insulation for hypersonic vehicles (AFRL)",
+      "papers": [
+        {
+          "name": "Thomas et al., 2024",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S00457825230078311"
+        },
+        {
+          "name": "Karumuri et al., 2024",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021999124003668"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "5",
+      "description": "Bayesian hemodynamic flow reconstruction from imaging modalities using information field theory (NSF)",
+      "papers": [],
+      "videos": []
+    },
+    {
+      "id": "6",
+      "description": "Subcutaneous and intrathecal drug delivery (Eli Lilly)",
+      "papers": [
+        {
+          "name": "de Lucio et al., 2023",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:KTwcwpFFj4wC"
+        },
+        {
+          "name": "Sree et al., 2023",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:PlWzFYVEG4EC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "7",
+      "description": "Electric machines (Ford)",
+      "papers": [
+        {
+          "name": "Beltrán-Pulido et al., 2022",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:Y0-TYkg6YM4C"
+        },
+        {
+          "name": "Beltrán-Pulido et al., 2020",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:pYKElYtJMmwC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "8",
+      "description": "Design of corrosion-resistant high-entropy alloys (NSF)",
+      "papers": [
+        {
+          "name": "Karumuri et al., 2023",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0927025622005626"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "description": "Uncertainty propagation through high-dimensional stochastic differential equations",
+      "papers": [
+        {
+          "name": "Tripathy et al., 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&citation_for_view=rjXLtJMAAAAJ:NxmKEeNBbOMC"
+        },
+        {
+          "name": "Karumuri et al., 2020",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&citation_for_view=rjXLtJMAAAAJ:X0DADzN9RKwC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "2",
+      "description": "Bayesian inverse problems",
+      "papers": [
+        {
+          "name": "Bilionis et al., 2013",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&citation_for_view=rjXLtJMAAAAJ:_FxGoFyzp5QC"
+        },
+        {
+          "name": "Karumuri et al., 2023",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:rLGzs9wiiwIC"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "3",
+      "description": "Sequential design of experiments",
+      "papers": [
+        {
+          "name": "Pandita et al., 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&cstart=20&pagesize=80&citation_for_view=rjXLtJMAAAAJ:z6xuaG2dYH0C"
+        },
+        {
+          "name": "Pandita et al., 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&cstart=20&pagesize=80&citation_for_view=rjXLtJMAAAAJ:EaFouW7jFu4C"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "4",
+      "description": "Information field theory as a unified paradigm for uncertainty quantification",
+      "papers": [
+        {
+          "name": "Alberts et al., 2023",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:natZJ_-F0IUC"
+        },
+        {
+          "name": "Hao et al., 2024",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rjXLtJMAAAAJ&sortby=pubdate&citation_for_view=rjXLtJMAAAAJ:9shLKfS_uJEC"
+        }
+      ],
+      "videos": [
+        {
+          "title": "A unified paradigm for bringing together multimodal data and...",
+          "description": "Or watch this video from a recent talk at the Isaac Newton Institute for Mathematical Sciences in Cambridge, UK:",
+          "url": "https://www.youtube.com/watch?v=DXbk3XcRD9Q"
+        }
+      ]
+    }
+  ]
+}
